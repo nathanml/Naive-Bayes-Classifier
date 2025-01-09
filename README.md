@@ -1,4 +1,4 @@
-# CS131 Assignment 05 - Naive Bayesian Classification
+# Naive Bayesian Classification
 ## Instructions to run and test
 From the root directory, run the following command in the 
 command line:
@@ -9,9 +9,6 @@ Running this command will trigger the classification algorithm
 on the testing dataset. Final classifications are printed to the 
 console, while the classification of each data sample is printed
 to the file logs.txt.
-
-## Late Token
-I am using one of my late tokens on this assignment.
 
 ## Design
 ### Implementation
